@@ -1,4 +1,4 @@
-# Football Analytics Pipeline
+ # Football Analytics Pipeline
 
 This project is a football analytics pipeline that takes a video of a football match as input and outputs a video with various analytics features, including player tracking, team assignment, ball possession, speed and distance estimation, and camera movement estimation.
 
